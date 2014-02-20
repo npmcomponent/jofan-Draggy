@@ -1,0 +1,17 @@
+{
+  "name": "jofan-draggy",
+  "description": "Make elements draggable using CSS3 for moving them. Great for creating sliders.",
+  "version": "0.9.2",
+  "keywords": [
+    "html",
+    "library",
+    "draggable",
+    "drag"
+  ],
+  "main": "lib/draggy.js",
+  "dependencies": {
+    "DamonOehlman-stylar": "git://github.com/npmcomponent/DamonOehlman-stylar.git",
+    "component-classes": "git://github.com/npmcomponent/component-classes.git"
+  },
+  "license": "MIT"
+}
